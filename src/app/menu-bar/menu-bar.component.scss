@@ -1,0 +1,8 @@
+.p-menubar.p-component {
+    background: #002d49;
+}
+
+.p-menubar .p-menubar-root-list > .p-menuitem:not(.p-highlight):not(.p-disabled) > .p-menuitem-content:hover {
+    color: #4b5563;
+    background: #ffc014;
+}
